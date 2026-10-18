@@ -28,7 +28,7 @@ The source file does not need execute permissions when installed through `instal
 
 ## Documentation
 
-- [Script Development Workflow](docs/script-development-workflow.md) — complete instructions, examples, troubleshooting, updates, and removal.
+- [Script Development Workflow](docs/script-development-workflow.uk.md) — complete instructions, examples, troubleshooting, updates, and removal.
 
 ## Related Projects
 
